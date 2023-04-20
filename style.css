@@ -61,6 +61,10 @@ header {
     width:44px;
 }
 
+img#bell{
+    width: 27px;
+}
+
 #sidebar {
     grid-column: 1 / 2;
     grid-row: 1 / 3;
